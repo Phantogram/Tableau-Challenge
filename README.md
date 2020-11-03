@@ -20,7 +20,7 @@ This chart further breaks down ridership by usertype and gender.  Subscribers ma
 Some of the top ten start stations are Pershing Square (Grand Central Station), 12th Ave & W 40th St  (Ferry Terminal), Christopher St & Greenwich St (Hudson River Park and Friends TV Show Apartment), and Broadway & W 60th St (Lincoln Center and Central Park).  For obvious reasons you can see why these start stations make the top ten list.
 
 #### Top 10 End Stations.  
-Some of the top ten start stations are also on the top ten end stations list.  However, some notable mentions for the month of September especially are the West St & Chambers St (One World Trade Center), and W 21st St & 6 Ave (Madison Square Garden).  
+Some of the top ten start stations are also on the top ten end stations list.  However, some notable mentions for the month of September especially are the West St & Chambers St (One World Trade Center), and W 21st St & 6 Ave (Madison Square Park).  
 
 #### Top 10 Heavily Used Bikes.  
 This table simply shows the top ten most used CitiBikes by bike ID and month.
